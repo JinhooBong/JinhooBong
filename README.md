@@ -1,6 +1,4 @@
-<div style="display: flex; align-items: center">
-    <h2>Hey there!</h2><img style="margin-left: 10px;" height="50" width="auto" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/>
-</div>
+### Hey There
 
 <a href="https://www.linkedin.com/in/jinhoo-bong/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:jinhoobong@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
