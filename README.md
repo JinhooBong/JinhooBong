@@ -1,28 +1,35 @@
-## Hi there 👋
-### About me
+<div style="display: flex; align-items: center">
+    <h2>Hey there!</h2><img style="margin-left: 10px;" height="50" width="auto" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/>
+</div>
 
-- I graduated from the University of Richmond with a B.S. in Computer Science, but felt like I had a lot of knowledge gaps, so recently graduated from the Software Engineering Immersive at [HackReactor](https://www.hackreactor.com/coding-bootcamp?utm_source=Google&utm_medium=cpc&utm_term=hackreactor&utm_campaign=HR_Brand_Keywords_NAT&gclid=Cj0KCQjws4aKBhDPARIsAIWH0JXRMY6MnTo61BKLmNlyDe_VMNpYgTohnODZtar3n_YNZE0nA-bOIEsaAr4qEALw_wcB)
-- I'm also a big basketball fan!  
-
-### Contact 
 <a href="https://www.linkedin.com/in/jinhoo-bong/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:jinhoobong@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-### Technologies 
+### About me
+
+- 💻 I recently worked as a Front End Engineer at AWS where I got to work on the [Outposts](https://aws.amazon.com/outposts/) team and build features that had global impact.
+- 👨🏻‍🎓 I graduated with a B.S. in Computer Science as well as from the SEI at [HackReactor](https://www.hackreactor.com/coding-bootcamp?utm_source=Google&utm_medium=cpc&utm_term=hackreactor&utm_campaign=HR_Brand_Keywords_NAT&gclid=Cj0KCQjws4aKBhDPARIsAIWH0JXRMY6MnTo61BKLmNlyDe_VMNpYgTohnODZtar3n_YNZE0nA-bOIEsaAr4qEALw_wcB)
+- 🖨️ I made it a goal for 2023 to learn 3d printing and I've printed little custom models for my set up and knick knacks for friends and family.
+- 🏀 In my free time, I love playing and watching basketball.
+
+## Technologies and Tools
 
 <!-- ### Frontend -->
 <p style="display: flex">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white"/>
 </p>
 
 <!-- ### Backend -->
-<p style="display: flex">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<!-- <p style="display: flex">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
+</p> -->
 
 <!-- #### Databases -->
 <p style="display: flex">
@@ -33,8 +40,8 @@
 
 <!-- #### Dev Environment -->
 <p style="display: flex">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
